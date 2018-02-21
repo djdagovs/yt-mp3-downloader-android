@@ -1,5 +1,9 @@
 # YouTube MP3 Downloader
 
+```diff
+- SERVER NOT WORKING, BROKEN!
+```
+
 ## Step-by-Step Guide
 
 0. Download & install the app by using [the latest .apk file](https://github.com/bornabesic/yt-mp3-downloader-android/releases/download/v0.2/youtube-mp3-downloader-v-0-2.apk)
